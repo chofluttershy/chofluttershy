@@ -6,7 +6,7 @@
    <a href="https://github-readme-stats.vercel.app/api?username=chofluttershy&show_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=chofluttershy&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/chofluttershy/github-readme-stats"><img height=150
+   <a href="https://github.com/chofluttershy/github-readme-stats"><img height=150 
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=chofluttershy&layout=compact"/></a>
 </p>
 
